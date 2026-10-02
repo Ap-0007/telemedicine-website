@@ -1,0 +1,1 @@
+$regex = escapeRegExp(text);
